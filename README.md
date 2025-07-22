@@ -88,7 +88,7 @@ These visualizations are available in the Jupyter notebook:
 
 ## 📷 Screenshots
 
-![Iris Classifier Screenshot](display_image.png)
+![Iris Classifier Screenshot](Display_Image.png)
 
 ---
 
